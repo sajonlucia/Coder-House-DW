@@ -1,0 +1,17 @@
+.cuadrado {
+	background-color: purple;
+	color: white;
+	border-radius: 100px;
+	text-align: center;
+	width: 200px;
+	height: 200px;
+	margin: auto;
+}
+.estrella {
+	width: 200px;
+	height: 200px;
+	animation-timing-function: ease-in-out;
+	animation-delay: 1s;
+	background-color: blue;
+	
+}
